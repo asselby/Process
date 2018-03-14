@@ -1,0 +1,9 @@
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\bin\Debug\Process.exe.config
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\bin\Debug\Process.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\bin\Debug\Process.pdb
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\Process.csprojResolveAssemblyReference.cache
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\Process.Form1.resources
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\Process.Properties.Resources.resources
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\Process.csproj.GenerateResource.Cache
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\Process.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\Process.pdb

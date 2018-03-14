@@ -1,0 +1,8 @@
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\ProcessFirstHW.Form1.resources
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\ProcessFirstHW.csproj.GenerateResource.Cache
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\bin\Debug\ProcessFirstHW.exe.config
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\bin\Debug\ProcessFirstHW.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\bin\Debug\ProcessFirstHW.pdb
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\ProcessFirstHW.Properties.Resources.resources
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\ProcessFirstHW.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\Process\Process\obj\Debug\ProcessFirstHW.pdb
